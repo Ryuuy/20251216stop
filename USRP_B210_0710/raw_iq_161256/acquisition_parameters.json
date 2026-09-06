@@ -1,0 +1,14 @@
+{
+  "sample_rate_hz": 30000000.0,
+  "sample_rate_mhz": 30.0,
+  "center_freq_hz": 1890000000.0,
+  "center_freq_ghz": 1.89,
+  "gain_db": 30,
+  "num_channels": 2,
+  "acquisition_duration_sec": 20.0,
+  "sdr_args": "serial=321D889,num_recv_frames=1024",
+  "timestamp": "2026-07-10T16:12:56.875885",
+  "data_format": "interleaved_sc16",
+  "sc16_scale": 32767.0,
+  "file_structure": "ch0[0](re,im int16), ch1[0](re,im int16), ch0[1], ch1[1], ..."
+}
